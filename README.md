@@ -1,4 +1,4 @@
-# Multi-Network Dual Control Plane Istio Service Mesh Demo on GKE
+# Multi-Network Dual Control Plane Istio Service Mesh on GKE Demo Script
 
 ## 🌐 Explore Advanced Service Mesh Capabilities with Open Source Istio
 
