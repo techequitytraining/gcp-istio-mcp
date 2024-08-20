@@ -70,7 +70,7 @@ export GCP_CLUSTER_2=hipster-dcp-2
 export GCP_REGION_2=us-central1
 export GCP_ZONE_2=us-central1-b
 export GCP_MACHINE_2=e2-standard-2
-export ISTIO_VERSION=1.22.3
+export ISTIO_VERSION=1.23.0
 EOF
 source $PROJDIR/.env
 fi
